@@ -12,6 +12,11 @@
   <a href="README.md">English</a> · <strong>简体中文</strong>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Loched12/LEBREW-Firmware-Updater/releases/latest"><strong>下载 Windows 版</strong></a><br>
+  macOS 版本仍在优化中。
+</p>
+
 ![LEBREW 固件升级工具演示](docs/demo/LEBREW-Firmware-Updater-Field-Manual.gif)
 
 <p align="center">
@@ -58,10 +63,12 @@ LEBREW 固件升级工具把这条容易出错的流程整理成一次清楚的�
 
 | 平台 | 状态 |
 | --- | --- |
-| Windows | 已打包桌面程序 |
-| macOS | 支持构建 |
+| Windows | 已提供 — 已打包桌面程序 |
+| macOS | 开发中 — 仍在优化 |
 
-正式客户版本通过 LEBREW 的客户渠道分发。
+Windows 版本可从最新 GitHub Release 下载。macOS 版本仍在优化中，暂不提供公开构建。
+
+当前 Windows 版本未做数字签名，Windows SmartScreen 可能显示提示。
 
 ## 关于这个仓库
 

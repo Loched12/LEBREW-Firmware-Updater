@@ -12,6 +12,11 @@
   <strong>English</strong> · <a href="README.zh-CN.md">简体中文</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Loched12/LEBREW-Firmware-Updater/releases/latest"><strong>Download for Windows</strong></a><br>
+  macOS version is still being optimized.
+</p>
+
 ![LEBREW Firmware Updater product walkthrough](docs/demo/LEBREW-Firmware-Updater-Field-Manual.gif)
 
 <p align="center">
@@ -58,10 +63,12 @@ The interface keeps the important states visible: selected model, firmware versi
 
 | Platform | Status |
 | --- | --- |
-| Windows | Packaged desktop application |
-| macOS | Supported build path |
+| Windows | Available — packaged desktop application |
+| macOS | In progress — still being optimized |
 
-Official customer builds are distributed through LEBREW's customer channels.
+The Windows build is available from the latest GitHub Release. macOS support is still being optimized; no public macOS build is available yet.
+
+The current Windows build is unsigned, so Windows SmartScreen may show a warning.
 
 ## About this repository
 
