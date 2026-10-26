@@ -1,0 +1,16 @@
+# This repository is for approved showcase assets only.
+源码/
+packages/
+release/
+out/
+catalog.json
+*.exe
+*.bin
+*.zip
+*.spec
+*.pem
+*.key
+*.pfx
+.env
+.env.*
+secrets*
