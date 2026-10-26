@@ -16,7 +16,7 @@
   <a href="https://github.com/lebrew-tech/LEBREW-Firmware-Updater/releases/latest">
     <img src="docs/assets/download-windows.svg" alt="下载 Windows 版" width="280">
   </a><br>
-  macOS 版本仍在优化中。
+  Windows 与 macOS 安装包均可在最新 Release 下载。
 </p>
 
 ![LEBREW 固件升级工具演示](docs/demo/LEBREW-Firmware-Updater-Field-Manual.gif)
@@ -66,9 +66,9 @@ LEBREW 固件升级工具把这条容易出错的流程整理成一次清楚的�
 | 平台 | 状态 |
 | --- | --- |
 | Windows | 已提供 — 已打包桌面程序 |
-| macOS | 开发中 — 仍在优化 |
+| macOS | 已提供 — Intel 与 Apple Silicon 通用版（未签名） |
 
-Windows 版本可从最新 GitHub Release 下载。macOS 版本仍在优化中，暂不提供公开构建。
+Windows 与 macOS 版本均可从最新 GitHub Release 下载。macOS 为通用版（Intel + Apple Silicon），但未签名、未公证，首次打开需右键「打开」。
 
 当前 Windows 版本未做数字签名，Windows SmartScreen 可能显示提示。
 

@@ -16,7 +16,7 @@
   <a href="https://github.com/lebrew-tech/LEBREW-Firmware-Updater/releases/latest">
     <img src="docs/assets/download-windows.svg" alt="Download for Windows" width="280">
   </a><br>
-  macOS version is still being optimized.
+  Windows and macOS builds are available in the latest release.
 </p>
 
 ![LEBREW Firmware Updater product walkthrough](docs/demo/LEBREW-Firmware-Updater-Field-Manual.gif)
@@ -66,9 +66,9 @@ The interface keeps the important states visible: selected model, firmware versi
 | Platform | Status |
 | --- | --- |
 | Windows | Available — packaged desktop application |
-| macOS | In progress — still being optimized |
+| macOS | Available — universal build for Intel and Apple Silicon (unsigned) |
 
-The Windows build is available from the latest GitHub Release. macOS support is still being optimized; no public macOS build is available yet.
+Both builds are available from the latest GitHub Release. The macOS build is universal (Intel + Apple Silicon) but unsigned and not notarized, so the first launch needs a right-click → Open.
 
 The current Windows build is unsigned, so Windows SmartScreen may show a warning.
 
