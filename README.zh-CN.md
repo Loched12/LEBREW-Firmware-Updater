@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Loched12/LEBREW-Firmware-Updater/releases/latest">
+  <a href="https://github.com/lebrew-tech/LEBREW-Firmware-Updater/releases/latest">
     <img src="docs/assets/download-windows.svg" alt="下载 Windows 版" width="280">
   </a><br>
   macOS 版本仍在优化中。
