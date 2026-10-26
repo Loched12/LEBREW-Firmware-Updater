@@ -13,7 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Loched12/LEBREW-Firmware-Updater/releases/latest"><strong>Download for Windows</strong></a><br>
+  <a href="https://github.com/Loched12/LEBREW-Firmware-Updater/releases/latest">
+    <img src="docs/assets/download-windows.svg" alt="Download for Windows" width="280">
+  </a><br>
   macOS version is still being optimized.
 </p>
 
