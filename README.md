@@ -13,10 +13,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lebrew-tech/LEBREW-Firmware-Updater/releases/latest">
+  <a href="https://github.com/lebrew-tech/LEBREW-Firmware-Updater/releases/latest/download/LEBREW-Firmware-Updater.exe">
     <img src="docs/assets/download-windows.svg" alt="Download for Windows" width="280">
+  </a>
+  <a href="https://github.com/lebrew-tech/LEBREW-Firmware-Updater/releases/latest/download/LEBREW-Firmware-Updater-macos-universal.zip">
+    <img src="docs/assets/download-macos.svg" alt="Download for macOS" width="280">
   </a><br>
-  Windows and macOS builds are available in the latest release.
+  Windows 10/11 and macOS (Intel + Apple Silicon) · direct download from the latest release.
 </p>
 
 ![LEBREW Firmware Updater product walkthrough](docs/demo/LEBREW-Firmware-Updater-Field-Manual.gif)

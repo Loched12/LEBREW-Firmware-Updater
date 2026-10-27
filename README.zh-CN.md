@@ -13,10 +13,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lebrew-tech/LEBREW-Firmware-Updater/releases/latest">
+  <a href="https://github.com/lebrew-tech/LEBREW-Firmware-Updater/releases/latest/download/LEBREW-Firmware-Updater.exe">
     <img src="docs/assets/download-windows.svg" alt="下载 Windows 版" width="280">
+  </a>
+  <a href="https://github.com/lebrew-tech/LEBREW-Firmware-Updater/releases/latest/download/LEBREW-Firmware-Updater-macos-universal.zip">
+    <img src="docs/assets/download-macos.svg" alt="下载 macOS 版" width="280">
   </a><br>
-  Windows 与 macOS 安装包均可在最新 Release 下载。
+  Windows 10/11 与 macOS（Intel + Apple Silicon）· 点击即从最新 Release 直接下载。
 </p>
 
 ![LEBREW 固件升级工具演示](docs/demo/LEBREW-Firmware-Updater-Field-Manual.gif)
