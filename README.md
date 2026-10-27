@@ -22,6 +22,10 @@
   Windows 10/11 and macOS (Intel + Apple Silicon) · direct download from the latest release.
 </p>
 
+<p align="center">
+  <sub><b>macOS:</b> unzip → double-click <code>LEBREW Firmware Updater.app</code>. If macOS blocks it, right-click → <b>Open</b>.</sub>
+</p>
+
 ![LEBREW Firmware Updater product walkthrough](docs/demo/LEBREW-Firmware-Updater-Field-Manual.gif)
 
 <p align="center">

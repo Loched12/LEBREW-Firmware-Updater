@@ -22,6 +22,10 @@
   Windows 10/11 与 macOS（Intel + Apple Silicon）· 点击即从最新 Release 直接下载。
 </p>
 
+<p align="center">
+  <sub><b>macOS：</b>解压后双击 <code>LEBREW Firmware Updater.app</code>；首次被拦截就右键 →「打开」。</sub>
+</p>
+
 ![LEBREW 固件升级工具演示](docs/demo/LEBREW-Firmware-Updater-Field-Manual.gif)
 
 <p align="center">
